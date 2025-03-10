@@ -222,7 +222,8 @@ body{
     }
     body {
         width: 100%;
-        height: calc(100vh - 40px);
+        height: auto;
+        min-height: calc(100vh - 40px);
         background-color: #13042E;
         background-image: url("img/Group 6.png");
         background-position: bottom;
