@@ -34,7 +34,7 @@ body{
     font-size: 20px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
     padding-left: 35px;
@@ -44,7 +44,7 @@ body{
     font-size: 20px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
     padding-right: 35px;
@@ -54,7 +54,7 @@ body{
     font-size: 20px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
     padding-left: 35px;
@@ -64,7 +64,7 @@ body{
     font-size: 20px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
     padding-left: 35px;
@@ -74,7 +74,7 @@ body{
     font-size: 20px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
     text-decoration: none;
     padding-left: 0px;
@@ -92,7 +92,7 @@ body{
     font-family: 'NeolostPersonaUse';
     font-size: 128px;
     color: white;
-    font-weight: 100;
+    font-weight: 300;
     line-height: 120%;
 }
 .mainPage__mainInfo__text_h1 span{
@@ -102,7 +102,7 @@ body{
     font-size: 48px;
     color: white;
     font-family: "Montserrat Alternates", sans-serif;
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
 }
 .mainPage__mainInfo__fon__img{
@@ -128,14 +128,14 @@ body{
         font-family: 'NeolostPersonaUse';
         font-size: 120px;
         color: white;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 120%;
     }
     .mainPage__mainInfo__text_p {
         font-size: 40px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
     }
 }
@@ -161,14 +161,14 @@ body{
         font-size: 28px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
     }
     .mainPage__mainInfo__text_h1 {
         font-family: 'NeolostPersonaUse';
         font-size: 108px;
         color: white;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 120%;
     }
 }
@@ -203,14 +203,14 @@ body{
         font-size: 28px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
     }
     .mainPage__mainInfo__text_h1 {
         font-family: 'NeolostPersonaUse';
         font-size: 108px;
         color: white;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 120%;
     }
     .mainPage__header {
@@ -277,14 +277,14 @@ body{
         font-size: 22px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
     }
     .mainPage__mainInfo__text_h1 {
         font-family: 'NeolostPersonaUse';
         font-size: 102px;
         color: white;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 120%;
     }
 }
@@ -297,7 +297,7 @@ body{
         font-size: 20px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 10px;
@@ -312,7 +312,7 @@ body{
         font-size: 20px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 10px;
@@ -322,7 +322,7 @@ body{
         font-size: 20px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 0px;
@@ -334,7 +334,7 @@ body{
         font-size: 16px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 10px;
@@ -344,7 +344,7 @@ body{
         font-size: 16px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 10px;
@@ -354,14 +354,14 @@ body{
         font-size: 20px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
     }
     .mainPage__header__menu__link:first-child {
         font-size: 16px;
         color: white;
         font-family: "Montserrat Alternates", sans-serif;
-        font-weight: 100;
+        font-weight: 300;
         font-style: normal;
         text-decoration: none;
         padding-left: 0px;
