@@ -9,7 +9,8 @@
 }
 body{
     width: 100%;
-    height: calc(100vh - 79px);;
+    height: auto;
+    min-height: calc(100vh - 79px);
     background-color: #13042E;
     background-image: url("img/Group\ 6.png");
     background-position: bottom; /*Например справа размещаем картинку*/
